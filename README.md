@@ -1,1 +1,1 @@
-# GE-MCM
+# **GE-MCM: Gene Expression Multifcatorial Causal Model**
