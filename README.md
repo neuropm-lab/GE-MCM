@@ -9,3 +9,8 @@ A multiscale mathematical model that concurrently accounts for the direct influe
 Authors: Quadri Adewale
 
 Contact information: quadri.adewale@mail.mcgill.ca
+
+## **Citations**
+Quadri Adewale, Ahmed F Khan, Felix Carbonell, Yasser Iturria-Medina, Alzheimer's Disease Neuroimaging Initiative (2021) Integrated transcriptomic and neuroimaging brain model decodes biological mechanisms in aging and Alzheimer’s disease eLife 10:e62589
+
+    
