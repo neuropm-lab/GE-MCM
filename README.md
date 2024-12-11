@@ -6,9 +6,9 @@ A multiscale mathematical model that concurrently accounts for the direct influe
 
 (c) Neuroinformatics for Personalized Medicine Lab (Neuro-PM): https://www.neuropm-lab.com/
 
-Authors: Quadri Adewale
+Authors: Quadri Adewale and Yasser Iturria-Medina
 
-Contact information: quadri.adewale@mail.mcgill.ca
+Contact information: quadri.adewale@mail.mcgill.ca; yasser.iturriamedina@mcgill.ca
 
 ## **Description**
 **ArrangeGEMCM.m** - Arranges gene expression and lognitudinal neuroimaging modalities according to the GE-MCM model
