@@ -11,7 +11,7 @@ Authors: Quadri Adewale
 Contact information: quadri.adewale@mail.mcgill.ca
 
 ## **Description**
-**ArrangeGEMCM.m** - Arranges gene expression and lognitudinal neuroimaging modliaties according to the GE-MCM model for parameter optimization
+**ArrangeGEMCM.m** - Arranges gene expression and lognitudinal neuroimaging modalities according to the GE-MCM model
 
 **bhs.m** - Bayesion regression with horshoe prior for parameter estimation. It takes the output from ArrangeGEMCM.m
 
