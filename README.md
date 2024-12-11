@@ -10,6 +10,11 @@ Authors: Quadri Adewale
 
 Contact information: quadri.adewale@mail.mcgill.ca
 
+## **Description**
+**ArrangeGEMCM.m** - Arranges gene expression and lognitudinal neuroimaging modliaties according to the GE-MCM model for parameter optimization
+
+**bhs.m** - Bayesion regression with horshoe prior for parameter estimation. It takes the output from ArrangeGEMCM.m
+
 ## **Citations**
 Quadri Adewale, Ahmed F Khan, Felix Carbonell, Yasser Iturria-Medina, Alzheimer's Disease Neuroimaging Initiative (2021) Integrated transcriptomic and neuroimaging brain model decodes biological mechanisms in aging and Alzheimer’s disease eLife 10:e62589
 
