@@ -31,7 +31,7 @@ NeuroPM-box can be downloaded from https://www.neuropm-lab.com/neuropm-box-downl
 
 ### **Step 2: Load data structure, molecular templates, and anatomical connectivity matrix**
 
-Use [**ArrangeGEMCM.m**](/README.md) to arrange gene expression and lognitudinal neuroimaging modalities according to the GE-MCM model.
+Use [**ArrangeGEMCM.m**](/ArrangeGEMCM.m) to arrange gene expression and lognitudinal neuroimaging modalities according to the GE-MCM model.
 
 ### **Step 3: Fit GE-MCM models**
 
