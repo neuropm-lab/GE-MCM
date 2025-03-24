@@ -35,7 +35,7 @@ Use [**ArrangeGEMCM.m**](/ArrangeGEMCM.m) to arrange gene expression and lognitu
 
 ### **Step 3: Fit GE-MCM models**
 
-Use **bhs.m** (Bayesion regression with horshoe prior) for model fitting and parameter estimation. Other regression methods can be employed.
+Use [**bhs.m**](/bhs.m) (Bayesion regression with horshoe prior) for model fitting and parameter estimation. Other regression methods can be employed.
 
 ### **Step 4: Downstream analysis**
 Use GE-MCM outputs (model parameters) for inter-subject comparisons (e.g., with clinical evaluations, physical activity, etc.).
