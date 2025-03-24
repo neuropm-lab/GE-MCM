@@ -19,19 +19,19 @@ GE-MCM can be used with longitudinal and multi-modal neuroimaging (MRI, PET, SPE
 ### **Step 0: Preprocessing and harmonization**
 Preprocess raw data as appropriate using tools of the user's choice:
 
-Motion correction, slice timing correction, artefact removal, etc.
-Alignment to T1 image
-Spatial normalization to MNI template
-Harmonization for site and scanner variations (e.g., using ComBat, https://github.com/Jfortin1/ComBatHarmonization)
+* Motion correction, slice timing correction, artefact removal, etc.
+* Alignment to T1 image
+* Spatial normalization to MNI template
+* Harmonization for site and scanner variations (e.g., using ComBat, https://github.com/Jfortin1/ComBatHarmonization)
 
 ### **Step 1: Compile the MCM data structure using NeuroPM-box**
 Organize the harmonized NIFTI files for all subjects and neuroimaging modalities as described in the NeuroPM-box instructions.
 
 NeuroPM-box can be downloaded from https://www.neuropm-lab.com/neuropm-box-download.html
 
-### **Step 2: Load MCM data structure, molecular templates, and anatomical connectivity matrix**
+### **Step 2: Load data structure, molecular templates, and anatomical connectivity matrix**
 
-Use **ArrangeGEMCM.m** to arrange gene expression and lognitudinal neuroimaging modalities according to the GE-MCM model.
+Use [**ArrangeGEMCM.m**](/README.md) to arrange gene expression and lognitudinal neuroimaging modalities according to the GE-MCM model.
 
 ### **Step 3: Fit GE-MCM models**
 
