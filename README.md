@@ -57,7 +57,15 @@ Please cite NeuroPM-box and the relevant molecular-MCM paper from the following:
     treatment needs in Parkinson’s disease. npj Parkinsons Dis. 11, 29 (2025). 
     https://doi.org/10.1038/s41531-025-00878-4
 
-* Molecular-MCM (neurotransmitter receptors): Khan, A.F., Adewale, Q., Lin, SJ. et al. Patient-specific models link neurotransmitter receptor mechanisms with motor and visuospatial axes of Parkinson’s disease. Nat Commun 14, 6009 (2023). https://doi.org/10.1038/s41467-023-41677-w
+* Molecular-MCM (neurotransmitter receptors)
+  * Khan, A.F., Adewale, Q., Lin, SJ. et al. Patient-specific models link 
+    neurotransmitter receptor mechanisms with motor and visuospatial axes of 
+    Parkinson’s disease. Nat Commun 14, 6009 (2023).
+    https://doi.org/10.1038/s41467-023-41677-w
 
-
+  * Ahmed Faraz Khan, Quadri Adewale, Tobias R Baumeister, Felix Carbonell, Karl 
+    Zilles, Nicola Palomero-Gallagher, Yasser Iturria-Medina, for the Alzheimer’s 
+    Disease Neuroimaging Initiative, Personalized brain models identify 
+    neurotransmitter receptor changes in Alzheimer's disease, Brain 145 (2022.) 
+    https://doi.org/10.1093/brain/awab375
     
