@@ -47,7 +47,15 @@ Please cite NeuroPM-box and the relevant molecular-MCM paper from the following:
 
 * NeuroPM-box: Iturria-Medina, Y., Carbonell, F., Assadi, A. et al. Integrating molecular, histopathological, neuroimaging and clinical neuroscience data with NeuroPM-box. Commun Biol 4, 614 (2021). https://doi.org/10.1038/s42003-021-02133-x
 
-* Molecular-MCM (gene expression): Adewale, Q., Khan, A.F., Carbonell, F., & Iturria-Medina, Y., Integrated transcriptomic and neuroimaging brain model decodes biological mechanisms in aging and Alzheimer’s disease. eLife 10:e62589 (2021). https://doi.org/10.7554/eLife.62589
+* Molecular-MCM (gene expression)
+  * Adewale, Q., Khan, A.F., Carbonell, F., & Iturria-Medina, Y., Integrated 
+    transcriptomic and neuroimaging brain model decodes biological mechanisms in aging 
+    and Alzheimer’s disease. eLife 10:e62589 (2021). https://doi.org/10.7554/eLife.62589
+
+  * Adewale, Q., Khan, A.F., Lin, SJ. et al. Patient-centered brain transcriptomic and 
+    multimodal imaging determinants of clinical progression, physical activity, and 
+    treatment needs in Parkinson’s disease. npj Parkinsons Dis. 11, 29 (2025). 
+    https://doi.org/10.1038/s41531-025-00878-4
 
 * Molecular-MCM (neurotransmitter receptors): Khan, A.F., Adewale, Q., Lin, SJ. et al. Patient-specific models link neurotransmitter receptor mechanisms with motor and visuospatial axes of Parkinson’s disease. Nat Commun 14, 6009 (2023). https://doi.org/10.1038/s41467-023-41677-w
 
