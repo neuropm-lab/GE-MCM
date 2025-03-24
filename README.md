@@ -20,7 +20,7 @@ Contact information: quadri.adewale@mail.mcgill.ca; yasser.iturriamedina@mcgill.
 ## **Workflow**
 GE-MCM can be used with longitudinal and multi-modal neuroimaging (MRI, PET, SPECT, etc.) and gene expression data at single or multiple time points.
 
-# **Step 0: Preprocessing and harmonization**
+### **Step 0: Preprocessing and harmonization**
 Preprocess raw data as appropriate using tools of the user's choice:
 
 Motion correction, slice timing correction, artefact removal, etc.
